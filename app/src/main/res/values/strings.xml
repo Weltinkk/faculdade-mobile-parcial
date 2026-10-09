@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mobile Parcial</string>
+    <string name="titulo_detalhe">Detalhe do exercício</string>
+    <string name="peso_corporal">Peso corporal</string>
+    <string name="carga_kg">%1$s kg</string>
+    <string name="resumo_exercicio">%1$dx%2$d · %3$s</string>
+    <string name="rotulo_series">Séries</string>
+    <string name="rotulo_repeticoes">Repetições</string>
+    <string name="rotulo_carga">Carga</string>
+    <string name="progresso_series">%1$d/%2$d</string>
+    <string name="concluir_serie">Concluir série</string>
+    <string name="exercicio_concluido">Exercício concluído</string>
+    <string name="erro_exercicio_nao_encontrado">Exercício não encontrado.</string>
+</resources>
